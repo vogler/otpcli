@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/vogler/otpcli/issues"
   },
-  "homepage": "https://github.com/vogler/otpcli#readme"
+  "homepage": "https://github.com/vogler/otpcli#readme",
+  "dependencies": {
+    "otplib": "^12.0.1"
+  }
 }
